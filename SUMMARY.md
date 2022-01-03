@@ -1,7 +1,7 @@
 # Contenidos
 
 ## Diseño de UX
-*[Diseño de Experiencia](Diseño%20de%20experiencia/diseno-ux.md)
+* [Diseño de Experiencia](Diseño%20de%20experiencia/diseno-ux.md)
 	  * [Disciplinas de UX](Disciplinas%20de%20UX.md de UX.md>)
 	  * [evaluacion-heuristica](evaluacion-heuristica.md)
 	  * [las-10-heuristicas-de-nielsen](las-10-heuristicas-de-nielsen.md)
