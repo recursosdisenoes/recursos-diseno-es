@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "9722c6bdef2bd272",
+        "id": "02683e334db60b26",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -15,122 +15,107 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ac72c928e2063080",
-    "type": "split",
+    "id": "a021a72fdba8ba46",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "c3c44656aac440fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "12ad1aea1fb4d016",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "adeaf9d32042f04f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "análi",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "2bf237de31353dec",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "5e5233a53e4e4449",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9f56553ab19fc5aa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "32f94cf0cdac5bed",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9856eb03afaf79c1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 272
+    "currentTab": 0
   },
   "right": {
-    "id": "bd198501d93e0a5b",
-    "type": "split",
+    "id": "4ef6d722344070f1",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "70462db7963a951d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e36203f5067676b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e10a2bf25905b693",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f239df67497c41c1",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4e00f46f5ae26a41",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
+        "id": "a56c748f61e0f8f0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
           }
-        ],
-        "currentTab": 3
+        }
+      },
+      {
+        "id": "72f06e00a5f01ec8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "abbe662b2466f86b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 305
+    "currentTab": 0
   },
-  "active": "9722c6bdef2bd272",
+  "active": "02683e334db60b26",
   "lastOpenFiles": [
+    "diseno-de-experiencia-ux-design/las-10-heuristicas-de-nielsen.md",
+    "Las 10 heurísticas de Nielsen.md",
+    "Diseño de experiencia (UX Design)/Disciplinas de UX.md",
+    "diseno-de-experiencia-ux-design/evaluacion-heuristica.md",
+    "diseno-de-experiencia-ux-design/Disciplinas de UX.md",
     "diseno-de-experiencia-ux-design-1/reglas-de-oro.md",
     "Herramientas de mapeado/00_Herramientas de mapeado.md",
     "Herramientas de mapeado/Business Model Canvas.md",
     "Diseño estratégico/Los 5 por qué.md",
-    "diseno-de-experiencia-ux-design/README.md",
-    "diseno-de-experiencia-ux-design/evaluacion-heuristica.md",
-    "diseno-de-experiencia-ux-design/las-10-heuristicas-de-nielsen.md",
-    "Diseño de experiencia (UX Design)/Disciplinas de UX.md",
-    "Diseño de experiencia (UX Design)/Evaluación heurística.md",
-    "Diseño de experiencia (UX Design)/Las 10 heurísticas de Nielsen.md"
+    "diseno-de-experiencia-ux-design/README.md"
   ]
 }
