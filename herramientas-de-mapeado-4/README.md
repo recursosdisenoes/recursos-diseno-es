@@ -1,2 +1,0 @@
-# Herramientas de mapeado
-
