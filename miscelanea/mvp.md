@@ -1,4 +1,0 @@
-# MVP
-## ¿Qué es?
-
-[[Iterar]]
