@@ -7,12 +7,8 @@
         "id": "9722c6bdef2bd272",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -130,15 +122,15 @@
   },
   "active": "9722c6bdef2bd272",
   "lastOpenFiles": [
+    "diseno-de-experiencia-ux-design-1/reglas-de-oro.md",
+    "Herramientas de mapeado/00_Herramientas de mapeado.md",
+    "Herramientas de mapeado/Business Model Canvas.md",
+    "Diseño estratégico/Los 5 por qué.md",
+    "diseno-de-experiencia-ux-design/README.md",
+    "diseno-de-experiencia-ux-design/evaluacion-heuristica.md",
+    "diseno-de-experiencia-ux-design/las-10-heuristicas-de-nielsen.md",
+    "Diseño de experiencia (UX Design)/Disciplinas de UX.md",
     "Diseño de experiencia (UX Design)/Evaluación heurística.md",
-    "Diseño de experiencia (UX Design)/Las 10 heurísticas de Nielsen.md",
-    "Análisis heurístico.md",
-    "Recursos/Glosario (provisional)/Heurística.md",
-    "Diseño de experiencia (UX Design)/Reglas de oro.md",
-    "Recursos/Media/Screenshot 2022-01-02 at 20.47.33.png",
-    "Recursos/Directorio.md",
-    "Recursos/Glosario.md",
-    "Recursos/Enlaces.md",
-    "Miscelánea/Iterar.md"
+    "Diseño de experiencia (UX Design)/Las 10 heurísticas de Nielsen.md"
   ]
 }

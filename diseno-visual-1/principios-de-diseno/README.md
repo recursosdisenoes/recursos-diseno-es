@@ -1,2 +1,0 @@
-# Principios de diseño
-
