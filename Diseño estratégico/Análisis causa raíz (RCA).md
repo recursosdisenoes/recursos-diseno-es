@@ -1,2 +1,0 @@
-# Análisis causa raíz (RCA)
-

@@ -4,118 +4,141 @@
     "type": "split",
     "children": [
       {
-        "id": "02683e334db60b26",
+        "id": "9722c6bdef2bd272",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "SUMMARY.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a021a72fdba8ba46",
-    "type": "mobile-drawer",
+    "id": "ac72c928e2063080",
+    "type": "split",
     "children": [
       {
-        "id": "5e5233a53e4e4449",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "9f56553ab19fc5aa",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "c3c44656aac440fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ad1aea1fb4d016",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "adeaf9d32042f04f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "análi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bf237de31353dec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "32f94cf0cdac5bed",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "9856eb03afaf79c1",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 386
   },
   "right": {
-    "id": "4ef6d722344070f1",
-    "type": "mobile-drawer",
+    "id": "bd198501d93e0a5b",
+    "type": "split",
     "children": [
       {
-        "id": "a56c748f61e0f8f0",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+        "id": "70462db7963a951d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e36203f5067676b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SUMMARY.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e10a2bf25905b693",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SUMMARY.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f239df67497c41c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e00f46f5ae26a41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SUMMARY.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "72f06e00a5f01ec8",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "abbe662b2466f86b",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {}
-        }
+        ],
+        "currentTab": 3
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 238
   },
-  "active": "02683e334db60b26",
+  "active": "9722c6bdef2bd272",
   "lastOpenFiles": [
-    "diseno-de-experiencia-ux-design/las-10-heuristicas-de-nielsen.md",
-    "Las 10 heurísticas de Nielsen.md",
-    "Diseño de experiencia (UX Design)/Disciplinas de UX.md",
-    "diseno-de-experiencia-ux-design/evaluacion-heuristica.md",
-    "diseno-de-experiencia-ux-design/Disciplinas de UX.md",
-    "diseno-de-experiencia-ux-design-1/reglas-de-oro.md",
-    "Herramientas de mapeado/00_Herramientas de mapeado.md",
-    "Herramientas de mapeado/Business Model Canvas.md",
-    "Diseño estratégico/Los 5 por qué.md",
-    "diseno-de-experiencia-ux-design/README.md"
+    "SUMMARY.md",
+    "README.md",
+    "diseno-de-experiencia/diseno-ux.md",
+    "recursos/Glosario.md",
+    "recursos/Enlaces.md",
+    "recursos/Directorio.md",
+    "recursos/glosario-provisional/README.md",
+    "metodologias-de-trabajo/Agile.md",
+    "diseno-de-experiencia/las-10-heuristicas-de-nielsen.md",
+    "diseno-de-experiencia/evaluacion-heuristica.md"
   ]
 }

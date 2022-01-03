@@ -1,3 +1,0 @@
-# Principios de diseño
-
-\[\[Ritmo]]

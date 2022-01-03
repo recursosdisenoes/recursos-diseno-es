@@ -2,5 +2,5 @@
 [[Value Proposition Canvas]]
 [[Mapa de empatía (Empathy Map)]]
 [[Mapa de experiencia (Experience Map)]] 
-[[Personas]]
+[[personas]]
 [[Service Blueprint]]
