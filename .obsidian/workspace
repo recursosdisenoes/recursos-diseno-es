@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e44573329fcff6c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9722c6bdef2bd272",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac72c928e2063080",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c44656aac440fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12ad1aea1fb4d016",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "adeaf9d32042f04f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "análi",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bf237de31353dec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272
+  },
+  "right": {
+    "id": "bd198501d93e0a5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "70462db7963a951d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e36203f5067676b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e10a2bf25905b693",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f239df67497c41c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e00f46f5ae26a41",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diseño de experiencia (UX Design)/Evaluación heurística.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305
+  },
+  "active": "9722c6bdef2bd272",
+  "lastOpenFiles": [
+    "Diseño de experiencia (UX Design)/Evaluación heurística.md",
+    "Diseño de experiencia (UX Design)/Las 10 heurísticas de Nielsen.md",
+    "Análisis heurístico.md",
+    "Recursos/Glosario (provisional)/Heurística.md",
+    "Diseño de experiencia (UX Design)/Reglas de oro.md",
+    "Recursos/Media/Screenshot 2022-01-02 at 20.47.33.png",
+    "Recursos/Directorio.md",
+    "Recursos/Glosario.md",
+    "Recursos/Enlaces.md",
+    "Miscelánea/Iterar.md"
+  ]
+}
