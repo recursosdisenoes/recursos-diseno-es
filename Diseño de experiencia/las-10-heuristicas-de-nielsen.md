@@ -1,4 +1,3 @@
-# Las 10 heurísticas de Nielsen
 Etiquetas: #UX
 
 ## Qué son

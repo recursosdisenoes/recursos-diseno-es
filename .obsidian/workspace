@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9722c6bdef2bd272",
+        "id": "d1b2f9e552cbafe3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SUMMARY.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,12 +57,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386
+    "width": 255
   },
   "right": {
     "id": "bd198501d93e0a5b",
     "type": "split",
     "children": [
+      {
+        "id": "b318ad21023e94e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9722c6bdef2bd272",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "70462db7963a951d",
         "type": "tabs",
@@ -77,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,29 +124,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SUMMARY.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 323
   },
-  "active": "9722c6bdef2bd272",
+  "active": "d1b2f9e552cbafe3",
   "lastOpenFiles": [
+    "Diseño de experiencia/README.md",
     "SUMMARY.md",
-    "README.md",
-    "diseno-de-experiencia/diseno-ux.md",
-    "recursos/Glosario.md",
-    "recursos/Enlaces.md",
-    "recursos/Directorio.md",
-    "recursos/glosario-provisional/README.md",
-    "metodologias-de-trabajo/Agile.md",
-    "diseno-de-experiencia/las-10-heuristicas-de-nielsen.md",
-    "diseno-de-experiencia/evaluacion-heuristica.md"
+    "herramientas-de-mapeado/Mapa de empatía (Empathy Map).md",
+    "herramientas-de-mapeado/Viaje del usuario (User Journey).md",
+    "herramientas-de-mapeado/Value Proposition Canvas.md",
+    "herramientas-de-mapeado/README.md",
+    "herramientas-de-mapeado/Mapa de experiencia (Experience Map).md",
+    "herramientas-de-mapeado/00_Herramientas de mapeado.md",
+    "diseno-visual/Tipografia/Tipografía.md",
+    "Diseño de experiencia/evaluacion-heuristica.md"
   ]
 }

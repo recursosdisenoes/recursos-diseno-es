@@ -1,5 +1,5 @@
 - Branding
-- Analítica
+- Analítica ^b918d0
 - [[Investigación]]
 - Mapeado / Data viz
 - Generación de ideas

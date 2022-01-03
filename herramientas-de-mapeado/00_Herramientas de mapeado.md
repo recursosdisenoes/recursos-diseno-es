@@ -4,3 +4,4 @@
 [[Mapa de experiencia (Experience Map)]] 
 [[personas]]
 [[Service Blueprint]]
+[[Viaje del usuario (User Journey)]]
