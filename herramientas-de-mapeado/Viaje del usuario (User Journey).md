@@ -11,8 +11,28 @@ Representación visual del proceso por el que pasa un cliente (o no cliente) par
 ## Para qué sirve
 Sirve para entender las necesidades, puntos críticos o *touch points* y puntos de dolor o *pain points* del cliente (o cliente *to-be*).
 
+## Tipos de viaje
+**Viaje as-is**: describe el viaje tal y como es hoy.
+**Viaje to-be**: describe el viaje ideal, al que aspiramos llegar.
+
 ## Cómo se hace
-Puedes empezar con una hoja de cálculo.
+Puedes empezar con una ==hoja de cálculo== (...)
+
+### Elementos clave
+- Actor y punto de vista
+- Escenario
+- Expectativas
+- Guión
+- Puntos de contacto
+- Canales
+- Oportunidades
+
+[[Personas]] o arquetipos.
+
+Luego se diseña una lámina como esta:
+![customer journey map, ux, usabildiad, experiencia de usuario, norman nielsen group,](http://www.uxables.com/wp-content/uploads/2020/03/plantilla-costumer-journey-map-nng.jpg)
+
+Al mapear el viaje puedes comprender mejor los puntos de contacto (*touchpoints*).
 
 ---
 
