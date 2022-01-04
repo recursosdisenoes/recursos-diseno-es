@@ -1,5 +1,6 @@
 # Tipografía
+Etiquetas: #visual
 
-Tipografía (...)
-
-Conceptos básicos \[\[Lead]]: es esto. \[\[Tracking]]: es esto otro.
+## Conceptos básicos
+[[Lead]]: es esto.
+[[Tracking]]: es esto otro.

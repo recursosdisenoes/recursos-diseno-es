@@ -1,6 +1,6 @@
 # Ritmo
 
-Parte de \[\[Principios de diseño]]
+Parte de [[Principios de diseño]]
 
 ### Recursos
 

@@ -7,8 +7,12 @@
         "id": "d1b2f9e552cbafe3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Diseño de experiencia/las-10-heuristicas-de-nielsen.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "análi",
+                "query": "heur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,8 +79,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "84d36c4cfdad0636",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "70462db7963a951d",
@@ -87,13 +101,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diseño de experiencia/las-10-heuristicas-de-nielsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diseño de experiencia/las-10-heuristicas-de-nielsen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,10 +140,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diseño de experiencia/las-10-heuristicas-de-nielsen.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,15 +154,15 @@
   },
   "active": "d1b2f9e552cbafe3",
   "lastOpenFiles": [
-    "Diseño de experiencia/README.md",
-    "SUMMARY.md",
-    "herramientas-de-mapeado/Mapa de empatía (Empathy Map).md",
+    "Diseño de experiencia/las-10-heuristicas-de-nielsen.md",
+    "Diseño de experiencia/evaluacion-heuristica.md",
     "herramientas-de-mapeado/Viaje del usuario (User Journey).md",
-    "herramientas-de-mapeado/Value Proposition Canvas.md",
-    "herramientas-de-mapeado/README.md",
-    "herramientas-de-mapeado/Mapa de experiencia (Experience Map).md",
-    "herramientas-de-mapeado/00_Herramientas de mapeado.md",
-    "diseno-visual/Tipografia/Tipografía.md",
-    "Diseño de experiencia/evaluacion-heuristica.md"
+    "SUMMARY.md",
+    "diseno-visual/Tipografia/Tipografia.md",
+    "diseno-visual/Tipografia/README.md",
+    "diseno-visual/Tipografia/tracking.md",
+    "diseno-visual/Tipografia/tipografia.md",
+    "diseno-visual/Tipografia/Tracking.md",
+    "diseno-visual/principios-de-diseno/Ritmo.md"
   ]
 }
