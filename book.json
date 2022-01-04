@@ -1,5 +1,7 @@
-root: ./
-
-​structure:  
-    readme: ./Empezar.md
-    summary: ./Organizacion/SUMMARY.md​
+{
+	"root": "./",
+    "structure":  {
+        "readme": "./Empezar.md",
+        "summary": "./Organizacion/SUMMARY.md​"
+    }
+}
