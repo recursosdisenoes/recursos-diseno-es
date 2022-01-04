@@ -1,5 +1,5 @@
 root: ./
 
 ​structure:  
-    readme: Empezar.md
-    summary: Organizacion/SUMMARY.md​
+    readme: ./Empezar.md
+    summary: ./Organizacion/SUMMARY.md​
