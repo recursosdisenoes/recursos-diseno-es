@@ -2,6 +2,6 @@
 	"root": "./",
     "structure":  {
         "readme": "Empezar.md",
-        "summary": "Organizacion/SUMMARY.md​"
+        "summary": "Organizacion/SUMMARY.md"
     }
 }
