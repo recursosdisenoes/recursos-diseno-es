@@ -2,14 +2,17 @@
 trello_board_card_id: 61d33e81988c938667200af1;61d6df4c1dfbb258b40a583d
 trello_plugin_note_id: nuvGgZejr1Cc1akNpi6p5
 ---
-Qué es HTML
+# Maquetación para diseñatas
+###### Introducción a HTML y CSS
+
+## Qué es HTML
 Un lenguaje (...)
 
-Para qué se usa
+### Para qué se usa
 Para crear hipertexto
 Esqueletos de webs
 
-¿Cómo lo hago?
+### ¿Cómo lo hago?
 Con un editor de código
 	VSCode
 	Etc
@@ -17,7 +20,7 @@ Con un editor de código
 ¿Cómo hago que mole?
 Con CSS
 
-Qué es CSS
+## Qué es CSS
 Otro lenguaje (...)
 
 ¿Cómo junto HTML y CSS?

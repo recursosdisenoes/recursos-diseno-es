@@ -2,7 +2,7 @@
 
 https://www.usertesting.com/blog/generative-vs-evaluation-research
 
-[[investigacion-evaluativa]]
+[[Investigación evaluativa]]
 [[Investigación cuantitativa]]
 [[Investigación cualitativa]]
 

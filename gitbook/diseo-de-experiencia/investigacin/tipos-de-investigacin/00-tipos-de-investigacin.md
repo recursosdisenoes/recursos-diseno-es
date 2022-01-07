@@ -1,4 +1,4 @@
-[[investigacion-generativa]]
-[[investigacion-evaluativa]]
+[[Investigación generativa]]
+[[Investigación evaluativa]]
 [[Investigación cuantitativa]]
 [[Investigación cualitativa]]
