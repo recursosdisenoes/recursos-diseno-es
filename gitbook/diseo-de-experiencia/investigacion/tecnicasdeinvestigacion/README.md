@@ -1,1 +1,2 @@
-# tecnicas-de-investigacion
+# Técnicas de investigación
+

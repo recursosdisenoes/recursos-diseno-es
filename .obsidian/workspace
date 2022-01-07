@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "e00922b9eb6979e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f92368485f5f6ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian/Diseño de servicios/Diseño de servicios.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "573155fcbe29498a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb6c02a6fb9e9730",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "51f840c2bfd5373d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "07b1fa011604e4a7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4cb60c81eee7b4a1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "obsidian/Diseño de servicios/Diseño de servicios.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2f92368485f5f6ef",
+  "lastOpenFiles": [
+    "obsidian/Diseño de servicios/Diseño de servicios.md"
+  ]
+}

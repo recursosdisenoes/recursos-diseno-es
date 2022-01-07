@@ -11,7 +11,7 @@ Etiquetas: #mapeado #ux #estrategia
 Representación visual del **proceso** por el que pasa un cliente (o no cliente) para lograr un **objetivo**.
 
 ## Para qué sirve
-Sirve para entender las **necesidades**, **puntos críticos** o *touch points* y **puntos de dolor** o *pain points* del cliente (o cliente *to-be*). Mapear la experiencia de la usuaria o clienta sirve para empezar (o aclarar) conversaciones en un equipo y crear (o reforzar) una visión compartida. 
+Sirve para entender las **necesidades**, **puntos críticos** o *touch points* y **puntos de dolor** o *pain points* del cliente (o cliente *to-be*). Mapear la experiencia de la usuaria o clienta sirve para empezar (o aclarar) conversaciones en un equipo y crear (o reforzar) una visión compartida.  ^ec75b1
 
 El artefacto/entregable puede ser buena herramienta para comunicar los descubrimientos a gente ajena al equipo o a clientes, y funcionar como apoyo a la hora de tomar de decisiones.
 
@@ -27,7 +27,7 @@ Puedes empezar con una ==hoja de cálculo== (...)
 > Ejemplo: en la misma organización hay Personas con distintos Viajes, por ejemplo: en una academia son muy distintas las experiencias de un profesor de las de un alumno.
 - **Escenario y expectativas**: describe la situación que se va a analizar en el viaje, donde el Actor tiene una o varias metas y expectativas específicas.
 > Ejemplo: Marta *quiere* cambiar de tarifa de teléfono *para* gastar menos dinero (escenario). Marta *espera* encontrar todas las opciones de su tarifa y de las otras disponibles para poder comparar con facilidad (expectativa).
- ^3630e8
+ ^3630e8 ^954179
 - **Fases**: son los pasos del viaje. Nos ayudan a organizar la información del mapa (acciones, pensamientos, emociones...)
 > Ejemplo: en un [[e-commerce]], para un cliente que compra un altavoz inalámbrico, las fases serían: descubrir, probar, comprar, usar y (quizá) buscar soporte.
 - **Acciones, actitudes, emociones**: son los comportamientos y sentimientos que tiene el usuario/cliente durante el viaje.
@@ -50,11 +50,12 @@ Mapear el viaje del usuario es especialmente útil en escenarios[[#^3630e8]] que
 ---
 
 ## Recursos 
-## Relacionado
+
+### Relacionado
 [[Mapa de empatía (Empathy Map)]]
 [[Personas]]
 
-## Enlaces
+### Enlaces
 https://www.nngroup.com/articles/journey-mapping-101/
 
 http://www.uxables.com/investigacion-ux/que-es-el-customer-journey-map-y-como-hacerlo/

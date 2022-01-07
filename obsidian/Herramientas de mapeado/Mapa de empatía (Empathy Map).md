@@ -1,3 +1,7 @@
+---
+trello_board_card_id: 61d33e81988c938667200af1;61d6dd7611387427cbeacc20
+trello_plugin_note_id: 5BEv4jXoGFTnoqKq7DTe1
+---
 # Mapa de empatía (Empathy Map)
 Etiquetas: #mapeado #ux #estrategia
 
@@ -32,6 +36,13 @@ Usar [[Investigación cualitativa]] o [[Investigación cuantitativa]] para compr
 ## Cuándo y dónde se usa
 En Sprints, en Design Thinking, en (...)
 
+### En Design Thinking
+1. Trae observaciones
+2. Prepara la actividad (el canvas)
+3. Captura observaciones del equipo (individual)
+4. Clusterizar (en equipo)
+5. Playback (discuss)
+
 ---
 
 # Recursos
@@ -47,6 +58,7 @@ En Sprints, en Design Thinking, en (...)
 
 ## Enlaces
 https://designthinking.gal/el-mapa-de-empatia/
+https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
 
 ---
 
