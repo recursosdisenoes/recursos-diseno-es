@@ -17,15 +17,15 @@
 * [Recursos](Recursos/README.md)
 
 ## Investigación
-* [Investigacion](Diseño%20de%20experiencia/investigacion/investigacion.md)
+* [Investigacion](investigacion%20para%20el%20diseño.md)
 	* [Investigación para el diseño de UX](investigacion-para-el-diseno-de-ux.md)
     * [Técnicas de investigación](Diseño%20de%20experiencia/investigacion/tecnicas-de-investigacion/README.md)
-		* [Entrevistas de usuario](entrevistas-de-usuario.md)
+		* [Entrevistas de usuario](Entrevistas%20de%20usuario.md)
 		* [Personas](Personas.md)
 		* [User Personas](user-personas.md)
-	* [Tipos de investigación](Diseño%20de%20experiencia/investigacion/tipos-de-investigacion/tipos-de-investigacion.md)
-		* [Investigación evaluativa](Diseño%20de%20experiencia/investigacion/tipos-de-investigacion/investigacion-evaluativa.md)
-		* [Investigación generativa](Diseño%20de%20experiencia/investigacion/tipos-de-investigacion/investigacion-generativa.md)
+	* [Tipos de investigación](tipos-de-investigacion.md)
+		* [Investigación evaluativa](investigacion-evaluativa.md)
+		* [Investigación generativa](investigacion-generativa.md)
 		* [Investigación cualitativa](Diseño%20de%20experiencia/investigacion/tipos-de-investigacion/investigacion-cualitativa.md)
 		* [Investigación cuantitativa](Diseño%20de%20experiencia/investigacion/tipos-de-investigacion/investigacion-cuantitativa.md)
 
