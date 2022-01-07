@@ -1,7 +1,3 @@
 {
-    "root": "./",
-    "structure":  {
-        "readme": "Empezar.md",
-        "summary": "Organizacion/SUMMARY.md"
-    }
+	"root": "./gitbook"
 }
