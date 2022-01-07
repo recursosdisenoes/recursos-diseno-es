@@ -5,6 +5,8 @@ trello_plugin_note_id: 5BEv4jXoGFTnoqKq7DTe1
 # Mapa de empatía (Empathy Map)
 Etiquetas: #mapeado #ux #estrategia
 
+![Update to the Empathy Map - Gamestorming](https://gamestorming.com/wp-content/uploads/2017/07/Empathy-Map-006-PNG.png)
+
 ## Qué es
 Es una herramienta de investigación/facilitación.
 
