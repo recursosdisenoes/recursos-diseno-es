@@ -2,7 +2,7 @@
 
 https://en.wikipedia.org/wiki/Extreme\_users#cite\_note-:8-6
 
-\[\[Diseñar para los extremos]]
+[[Diseñar para los extremos]]
 
 https://hbswk.hbs.edu/item/pay-attention-to-your-extreme-consumers
 
