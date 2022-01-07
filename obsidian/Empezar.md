@@ -1,4 +1,4 @@
 [[Gobierno]]
 [[Guías]]
-[[problemas conocidos]]
+[[Problemas conocidos]]
 [[Tutoriales]]
