@@ -36,16 +36,16 @@ Usando el ejemplo de (...)
 > **Ejemplo**: mujer, 55 años...
 
 - **Está haciendo** (metas): 
-> **Ejemplo**: migrando la infraestructura de su empresa a cloud.
+>**Ejemplo**: migrando la infraestructura de su empresa a cloud.
 
 - **Principales frustraciones** (*pain points*): 
-> No entender las implicaciones de seguridad (...)
+>No entender las implicaciones de seguridad (...)
 
 - **Motivación primaria**:
-> Cumplir estándares de la industria (para...)
+>Cumplir estándares de la industria (para...)
 
 - **Necesidades**: 
-> Entiende las diferencias entre distintos programas...
+>Entiende las diferencias entre distintos programas...
 > Necesita: a) un software que le ayude a (...) y b) estar segura de que no (...)
 
 
