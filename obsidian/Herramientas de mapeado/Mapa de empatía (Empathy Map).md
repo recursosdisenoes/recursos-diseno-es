@@ -13,6 +13,18 @@ Es una herramienta de investigación/facilitación.
 ## Para qué sirve
 Para (¡qué sorpresa!) ==empatizar== con los/as usuarios/as. Para entender mejor al cliente o público objetivo: personalidad, entorno, visión del mundo, necesidades y deseos...
 
+## Cuándo se usa
+On a large team, not everyone has the chance to talk to every user. Empathy Maps help synthesize your team’s collective knowledge about your users as a group, bringing you closer to a common understanding of who they are. You can use empathy mapping to refresh your team’s understanding before an important decision, or to quickly synthesize your data directly after an observation session. 
+
+>Empathy Mapping is best treated as an ongoing activity. As your understanding grows and evolves, revisit the activity periodically.
+
+### En un Design Thinking
+1. Traes observaciones
+2. Preparas la actividad (el canvas)
+3. Capturas observaciones del equipo (individual)
+4. Clusterizar (en equipo)
+5. Playback (discuss)
+
 ## Cómo se hace
 Dedicar unos 30 minutos y hacerlo en grupo (...)
 
@@ -29,25 +41,15 @@ Rellenar la "personalidad" de cada arquetipo.
 ### 3. Empatizar
 Ponerse en la piel de la persona: qué piensa, qué siente...
 
-[![](https://designthinking.gal/wp-content/uploads/2017/10/Mapa-de-empatia-blog-Innokabi-lean-startup-800x524.jpg)](https://designthinking.gal/wp-content/uploads/2017/10/Mapa-de-empatia-blog-Innokabi-lean-startup-800x524.jpg)
-
 ### 4. Validación
 Usar [[Investigación cualitativa]] o [[Investigación cuantitativa]] para comprobar si nuestras hipótesis son ciertas.
 
 
-## Cuándo y dónde se usa
-En Sprints, en Design Thinking, en (...)
-
-### En Design Thinking
-1. Trae observaciones
-2. Prepara la actividad (el canvas)
-3. Captura observaciones del equipo (individual)
-4. Clusterizar (en equipo)
-5. Playback (discuss)
 
 ---
 
 # Recursos
+
 ## Relacionado
 [[Personas]]
 [[Focus group]]
