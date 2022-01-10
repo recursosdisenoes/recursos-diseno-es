@@ -108,10 +108,15 @@ dist
 
 # Obsidian workspace info
 obsidian/.obsidian/workspace
+.obsidian/workspace
 obsidian/.obsidian/starred.json
+.obsidian/starred.json
 obsidian/.obsidian/appearance.json
 .obsidian/appearance.json
+obsidian/.obsidian/themes/
 .obsidian/themes/
 obsidian/.obsidian/plugins/
-.obsidian/workspace
+.obsidian/plugins/
 obsidian/.obsidian/graph.json
+.obsidian/graph.json
+
