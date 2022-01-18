@@ -16,7 +16,13 @@ En el espacio digital, ==la distinción no está tan clara==. Puedes poseer un a
 ### Por qué es relevante el diseño de servicios
 Si alguna vez has llamado a un número de atención al cliente y explicado tu problema a un agente para inmediatamente después ser transferida a otro agente de otro departamento al que has tenido que volver a explicar tu problema de nuevo, has sufrido la falta de diseño de servicios.
 
-> Otro ejemplo: restaurante con las mesas sucias y un camarero ajetreado que no da abasto.
+>Otro ejemplo: restaurante con las mesas sucias y un camarero ajetreado que no da abasto.
+
+## Para qué sirve
+- Descubrir **debilidades**: directas al [[DAFO (SWOT)]]
+- Fomentar la **colaboración** entre departamentos
+- Encontrar oportunidades de **optimización**
+>Ejemplo: CRM aislado con feedback de usuarios
 
 ## Anatomía del diseño de servicios
 **Gente**: cualquiera que crea, usa o es afectado indirectamente por el servicio.
@@ -31,7 +37,7 @@ Si alguna vez has llamado a un número de atención al cliente y explicado tu pr
 	- Sacar dinero de un cajero
 	- Resolver un problema vía soporte
 
-> Ejemplo: en un restaurante
+>Ejemplo: en un restaurante
 	**gente**: productores, empleados, cocineros, camareros…
 	**artefactos**: cocinas, ingredientes, software para cobrar, uniformes…
 	**procesos**: empleados checking in and out, pedidos que entran a cocina, cuándo limpiar los platos y cómo (ejemplo del doble lavado con sal de el ducado), almacenar comida…
@@ -49,5 +55,16 @@ Hay una **línea de visibilidad**: el cliente ve ciertos procesos e interactúa 
 ## Cómo se diseña un servicio
 [[Service Blueprint]]
 
+---
+
+## Referencias
+- Kalbach, Jim. “Mapping Experiences.” O’Reilly Media, Inc, 2016.
+- Shostack, Lynn. “Designing Services that Deliver.” Harvard Business Review, 1984.
+
 ## Recursos
+
+### Enlaces
 https://www.nngroup.com/articles/service-design-101/
+
+### Vídeos
+https://www.youtube.com/watch?v=WOIcMsRP4Jg&ab_channel=NNgroup
