@@ -8,7 +8,7 @@ Etiquetas: #servicio
 ![NNg Service Blueprint Example](https://media.nngroup.com/media/editor/2017/08/22/nng-service-blueprint-example.png)
 
 ## Qué es
-Diagrama para **visualizar los distintos componentes** de un servicio (gente, artefactos y procesos) que están directamente relacionados con [[Touchpoint]]s en un [[Viaje del usuario (User Journey)]]. Serían la "parte 2" del [[Viaje del usuario (User Journey)]].
+Diagrama para **visualizar los distintos componentes** de un servicio (gente, artefactos y procesos) que están directamente relacionados con [[Touchpoint]]s en un [[Viaje del usuario (User Journey)]]. Sería la "parte 2" del [[Viaje del usuario (User Journey)]].
 
 Puede haber varios planos (*blueprints*) para el mismo servicio si contamos con distintos **escenarios** ([[Viaje del usuario (User Journey)#^954179]])
 
@@ -42,7 +42,13 @@ Estos elementos clave se **dividen** principalmente con:
 ![NNg Service Blueprint Additional Elements Diagram](https://media.nngroup.com/media/editor/2017/08/22/nng-service-blueprint-additional-elements.png)
 
 ## Recursos
+
+### Relacionado
+[[00 - Diseño de servicios]]
+[[00 - Herramientas de mapeado]]
+
+### Enlaces
 https://www.nngroup.com/articles/service-design-101/
 https://www.nngroup.com/articles/service-blueprints-definition/
 https://thinkersco.com/comunidad/blog/service-design-para-reinventar-tus-servicios/
-
+https://www.hiberus.com/crecemos-contigo/que-es-un-service-blueprint-y-como-te-puede-ayudar-a-optimizar-la-experiencia-de-usuario/
