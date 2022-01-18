@@ -1,5 +1,7 @@
 # Strategyzer
+Etiquetas: #canvas 
 
+https://www.strategyzer.com/
 https://www.strategyzer.com/blog/posts/2015/9/8/an-emerging-toolbox-for-business-strategy-innovation
 
 [The Business Model Environment:](http://blog.strategyzer.com/posts/2014/7/26/your-business-model-environment) describes the environment in which you design your business model.
