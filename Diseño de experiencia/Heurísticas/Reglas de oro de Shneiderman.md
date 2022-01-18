@@ -1,5 +1,4 @@
 # Reglas de oro
-
 **Etiquetas**: #interfaz #UX #heuristicas
 
 ## Qué son
