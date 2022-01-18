@@ -42,6 +42,11 @@ Ejemplo completo:
 ## Cuándo utilizarlo
 Mapear el viaje del usuario es especialmente útil en escenarios[[#^3630e8]] que incluyen una **secuencia** de eventos, describen un **proceso** o se desarrollan entre **múltiples canales**.
 
+## Ejemplo/s
+### McDonald's ([fuente](https://uxplanet.org/service-design-the-case-of-mcdonalds-196ac9d5d7f0))
+**Making orders, paying and collection of food are the main touch points in Mcdonald’s customer journey.**
+Back when technology wasn’t sexy, as I had mentioned earlier, the cashier was also the food server. This created an impression that the waiting time was long because the person being served had to order, pay and collect his food at the same counter (the worst moment was when that person spent 5 minutes discussing with the cashier and thinking of what to order. Very considerate). _So the service was not that great._ _No, the cashier wasn’t slow. The human just had more than one role to play and the customer being served just couldn’t make up his mind._ The “cashier” was the order taker, the cash collector and the food server. This was the Mcdonald’s service design for a large part of my childhood.
+
 ## Variaciones
 [[Mapa de experiencia (Experience Map)]]
 [[Service Blueprint]]
@@ -57,7 +62,10 @@ Mapear el viaje del usuario es especialmente útil en escenarios[[#^3630e8]] que
 
 ### Enlaces
 https://www.nngroup.com/articles/journey-mapping-101/
-
 http://www.uxables.com/investigacion-ux/que-es-el-customer-journey-map-y-como-hacerlo/
-
 https://blog.hubspot.es/service/customer-journey-map 
+https://www.nngroup.com/articles/analyze-customer-journey-map/
+
+### Vídeos
+https://www.youtube.com/watch?v=cYdofAI5NHc&ab_channel=ServiceDesignShow
+https://www.youtube.com/watch?v=Y6Mn-d9QMxY&ab_channel=ServiceDesignShow
