@@ -1,0 +1,1 @@
+https://www.nngroup.com/articles/parking-lots/?lm=journey-mapping-101
