@@ -1,0 +1,1 @@
+Es una [[Métrica]]
