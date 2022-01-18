@@ -1,6 +1,5 @@
 # Recursos de diseño en Español
-Recursos de diseño en español, gratis y abiertos
-
+Recursos de diseño en español, gratis y abiertos.
 
 ## TL;DR:
 
