@@ -1,0 +1,1 @@
+https://www.nngroup.com/courses/becoming-ux-strategist/?lm=service-blueprints-definition
