@@ -8,7 +8,7 @@ Etiquetas: #UX #mapeado #UX/mapeado #investigación
 ![Personas Make Users Memorable for Product Team Members](https://s3.amazonaws.com/media.nngroup.com/media/editor/2015/01/19/examplepersona.png)
 
 ## Qué es
-Representación creíble y fiable de los segmentos clave de tu audiencia, basadas en [[Investigación cualitativa]], [[Investigación cuantitativa]] y analítica web.y
+Representación creíble y fiable de los segmentos clave de tu audiencia, basadas en [[Investigación cualitativa]], [[Investigación cuantitativa]] y analítica web.
 
 ## Para qué sirve
 -   Represent a major user group for your website
