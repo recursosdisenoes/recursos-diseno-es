@@ -6,7 +6,7 @@ Etiquetas: #UX #canvas
 ## Qué es
 It’s a facilitation tool for cross-functional teams designed to create a **customer-centric conversation** about the work the team is doing. The goal was to help the team focus on “why” they’re doing the current work.
 
-It provides an **initial recipe** for teams to follow in the early stages of [[Agile]] adoption. It’s a kind of “insurance policy” to ensure learning takes place in every [[Sprint]]. It exposes the gaps in the team’s understanding of a) the problem they’re solving, b) who they’re solving it for and c) why they believe their solutions will work.
+It provides an **initial recipe** for teams to follow in the early stages of [[Agilismo (agile)]] adoption. It’s a kind of “insurance policy” to ensure learning takes place in every [[Sprint]]. It exposes the gaps in the team’s understanding of a) the problem they’re solving, b) who they’re solving it for and c) why they believe their solutions will work.
 
 >It’s a first step in the shift of the conversation from outputs to outcomes.
 
