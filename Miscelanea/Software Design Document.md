@@ -33,7 +33,7 @@ Lo de conducir sin rumbo hasta que llegas a la meta (...)
 https://docs.google.com/document/d/19IhojCfl0Lo2nb74H_5zY2XX6sAXNmqB/edit?usp=sharing&ouid=107106543897947109659&rtpof=true&sd=true
 
 ### Plantillas
-
+TBD
 
 ### Enlaces
-https://www.lucidchart.com/blog/how-to-create-software-design-documents 
+https://www.lucidchart.com/blog/how-to-create-software-design-documents
