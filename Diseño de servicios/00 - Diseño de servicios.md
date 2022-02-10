@@ -64,7 +64,13 @@ Hay una **línea de visibilidad**: el cliente ve ciertos procesos e interactúa 
 ## Recursos
 
 ### Enlaces
-https://www.nngroup.com/articles/service-design-101/
+- https://www.nngroup.com/articles/service-design-101/
+- https://uxplanet.org/service-design-the-case-of-mcdonalds-196ac9d5d7f0
+- https://www.quora.com/Can-Apple-be-regarded-as-a-successful-example-of-service-design
+- https://www.teacuplab.com/es/insights/redefiniendo-experiencia-empleados-klm-design-sprint/
+- https://medium.com/partha-pratim-sanyal/system-design-doordash-a-prepared-food-delivery-service-bf44093388e2
+- https://www.servicedesigntoolkit.org/downloads.html
+- https://miro.com/blog/templates-service-design-personas-service-blueprint/
 
 ### Vídeos
 https://www.youtube.com/watch?v=WOIcMsRP4Jg&ab_channel=NNgroup
