@@ -1,11 +1,18 @@
 # Investigación generativa
+Etiquetas: #investigación 
 
-https://www.usertesting.com/blog/generative-vs-evaluation-research
+## Qué es
+Investigar.
 
+## Técnicas
+[[Entrevistas de usuario]]
+
+## Recursos
+### Ver también
 [[Investigación evaluativa]]
 [[Investigación cuantitativa]]
 [[Investigación cualitativa]]
 
-#### Técnicas
+### Enlaces
+https://www.usertesting.com/blog/generative-vs-evaluation-research
 
-[[Entrevistas de usuario]]
