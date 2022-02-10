@@ -1,0 +1,1 @@
+https://www.amamex.org.mx/blog/los-14-puntos-sobre-calidad-de-edwards-deming.html
