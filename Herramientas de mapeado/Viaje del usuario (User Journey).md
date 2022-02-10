@@ -47,6 +47,8 @@ Mapear el viaje del usuario es especialmente útil en escenarios[[#^3630e8]] que
 **Making orders, paying and collection of food are the main touch points in Mcdonald’s customer journey.**
 Back when technology wasn’t sexy, as I had mentioned earlier, the cashier was also the food server. This created an impression that the waiting time was long because the person being served had to order, pay and collect his food at the same counter (the worst moment was when that person spent 5 minutes discussing with the cashier and thinking of what to order. Very considerate). _So the service was not that great._ _No, the cashier wasn’t slow. The human just had more than one role to play and the customer being served just couldn’t make up his mind._ The “cashier” was the order taker, the cash collector and the food server. This was the Mcdonald’s service design for a large part of my childhood.
 
+![](https://miro.medium.com/max/9646/1*082VgPz9Qpxkjld3YSrKmA.png)
+
 ## Variaciones
 [[Mapa de experiencia (Experience Map)]]
 [[Service Blueprint]]
@@ -59,6 +61,7 @@ Back when technology wasn’t sexy, as I had mentioned earlier, the cashier was 
 ### Relacionado
 [[Mapa de empatía (Empathy Map)]]
 [[Personas]]
+[[Business Model Canvas]]
 
 ### Enlaces
 https://www.nngroup.com/articles/journey-mapping-101/
