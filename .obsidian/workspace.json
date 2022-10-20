@@ -8,19 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96c0e50e8d2f4b38",
+            "id": "63a6713b902787e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
+                "file": "Diseño visual/Layout/Rejilla (Grid).md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3344608e554d80f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diseño visual/Alineamiento óptico (eyeballing, optical alignment).md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
+                "file": "Diseño visual/Alineamiento óptico (eyeballing, optical alignment).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
+                "file": "Diseño visual/Alineamiento óptico (eyeballing, optical alignment).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md"
+                "file": "Diseño visual/Alineamiento óptico (eyeballing, optical alignment).md"
               }
             }
           }
@@ -140,17 +154,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "96c0e50e8d2f4b38",
+  "active": "e3344608e554d80f",
   "lastOpenFiles": [
-    "Herramientas/Herramientas de mapeado/00 - Herramientas de mapeado.md",
-    "Sistemas de diseño/Design Token.md",
-    "Diseño de servicios/Service Blueprint.md",
-    "Diseño de servicios/Recursos de diseño de servicios.md",
-    "Diseño de servicios/00 - Diseño de servicios.md",
-    "Product Management/PMI (Product Management Institute).md",
-    "Desarrollo para diseñadoras/Introducción a maquetación web (HTML y CSS).md",
-    "Herramientas/Herramientas de mapeado/Mapa de experiencia (Experience Map).md",
-    "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
-    "Empieza aquí.md"
+    "Diseño visual/Layout/Rejilla (Grid).md",
+    "Diseño visual/Visualización de datos/Visualización de datos.md",
+    "Diseño visual/Tipografia/Glosario/Escala tipográfica.md",
+    "Diseño visual/Tipografia/Alto de línea (line height).md",
+    "Diseño visual/Principios de diseño/Principios de diseño.md",
+    "Diseño visual/Color/Teoría del color.md",
+    "Diseño visual/Color/Color blindness.md",
+    "Diseño visual/GUI/10-foot UI.md",
+    "Diseño visual/GUI/GUI.md",
+    "Diseño visual/Tipografia/Glosario/kerning.md"
   ]
 }

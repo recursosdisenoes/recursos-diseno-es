@@ -1,4 +1,3 @@
-# Visualización de datos
 Etiquetas: #datos #visual 
 
 ## Qué es
