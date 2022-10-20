@@ -21,7 +21,7 @@ Este método de evaluación fue desarrollado por Molich y Nielsen en 1990. De ta
 # Recursos
 ## Relacionado
 [[Heurística]]
-[[Las 10 heurísticas de Nielsen]]
+[[Diseño de experiencia (UX)/Heurísticas/Las 10 heurísticas de Nielsen]]
 [[Sirius]]
 
 ## Herramientas

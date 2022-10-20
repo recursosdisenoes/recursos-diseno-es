@@ -1,0 +1,1 @@
+https://es.wordpress.org/plugins/duplicator/

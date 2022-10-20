@@ -1,0 +1,1 @@
+https://typ.io/fonts/bebas_neue

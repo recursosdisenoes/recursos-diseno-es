@@ -1,1 +1,9 @@
-{}
+{
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "livePreview": true
+}

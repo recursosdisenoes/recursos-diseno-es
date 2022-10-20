@@ -62,6 +62,7 @@ Hay una **línea de visibilidad**: el cliente ve ciertos procesos e interactúa 
 - Shostack, Lynn. “Designing Services that Deliver.” Harvard Business Review, 1984.
 
 ## Recursos
+> Ver [[Recursos de diseño de servicios]]
 
 ### Enlaces
 - https://www.nngroup.com/articles/service-design-101/
@@ -71,6 +72,7 @@ Hay una **línea de visibilidad**: el cliente ve ciertos procesos e interactúa 
 - https://medium.com/partha-pratim-sanyal/system-design-doordash-a-prepared-food-delivery-service-bf44093388e2
 - https://www.servicedesigntoolkit.org/downloads.html
 - https://miro.com/blog/templates-service-design-personas-service-blueprint/
+- https://www.servicedesigntoolkit.org/downloads.html
 
 ### Vídeos
 https://www.youtube.com/watch?v=WOIcMsRP4Jg&ab_channel=NNgroup

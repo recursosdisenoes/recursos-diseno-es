@@ -1,0 +1,2 @@
+# Escala tipográfica
+Etiquetas: #tipografía 

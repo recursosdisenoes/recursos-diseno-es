@@ -1,15 +1,13 @@
-# Recursos de diseño en Español
+# Recursos de diseño en español
 Recursos de diseño en español, gratis y abiertos.
 
-## TL;DR:
-
+## TL;DR
 El proyecto está hecho con [Obsidian](https://obsidian.md). El Vault está en la carpete `obisidian`. Eso lo puedes modificar.
 
 Un :robot: Robot Mágico que vive entre `src` y `.github` mueve el proyeto de Obsidian a la carpeta `gitbook` para tenerlo publicado. No toques nada en la carpeta `gitbook` o el robot lo borrará.
 
 
 ## Cómo está organizado este repositorio
-
 Tenemos cuatro carpetas principales:
 
 ### obsidian

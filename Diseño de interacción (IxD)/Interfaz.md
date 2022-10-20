@@ -1,0 +1,4 @@
+[[GUI]]
+[[VUI]]
+
+Interfaz háptica

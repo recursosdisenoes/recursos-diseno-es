@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "f733fb899f7c19ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff79a26b6da06440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c0e50e8d2f4b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7b45d6d89e1b998",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bce4712f1068b4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d524f8542239f09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38daeb9886d4deb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40201d6168711b20",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f83f6195ed746f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded559132273b1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75cce4ccd4bfaff7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd7cd6a31a721206",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5866a14d085c46ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce1980ec85ec1aad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "96c0e50e8d2f4b38",
+  "lastOpenFiles": [
+    "Herramientas/Herramientas de mapeado/00 - Herramientas de mapeado.md",
+    "Sistemas de diseño/Design Token.md",
+    "Diseño de servicios/Service Blueprint.md",
+    "Diseño de servicios/Recursos de diseño de servicios.md",
+    "Diseño de servicios/00 - Diseño de servicios.md",
+    "Product Management/PMI (Product Management Institute).md",
+    "Desarrollo para diseñadoras/Introducción a maquetación web (HTML y CSS).md",
+    "Herramientas/Herramientas de mapeado/Mapa de experiencia (Experience Map).md",
+    "Herramientas/Herramientas de mapeado/Viaje del usuario (User Journey).md",
+    "Empieza aquí.md"
+  ]
+}

@@ -1,0 +1,3 @@
+The problem is that it’s impossible to distill value into one metric. If you’re optimizing for a growth number, is it a cause for celebration if you get tons of people onto your service who only stay for a month before ditching, never to return? Vice versa, if you’re optimizing for engagement, is it worth it if some other company is eating your lunch by growing faster? Or if you’re getting 2-star reviews in the App Store?
+
+https://medium.com/the-year-of-the-looking-glass/the-agony-and-ecstasy-of-building-with-data-56215764d67c
