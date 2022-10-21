@@ -1,0 +1,1 @@
+https://www.brainsins.com/es/blog/recencia-engagement-factor-clav/40525

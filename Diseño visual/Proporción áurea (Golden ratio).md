@@ -1,0 +1,1 @@
+[[Calculadora de proporción áurea (golden ratio calculator)]]

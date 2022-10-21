@@ -1,5 +1,5 @@
 [[Gobierno]]
-[[Organización/Guías]]
+[[Organización del repositorio/Guías]]
 [[Problemas conocidos]]
 [[Tutoriales]]
 

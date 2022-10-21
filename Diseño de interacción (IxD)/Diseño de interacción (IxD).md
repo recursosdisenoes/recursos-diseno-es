@@ -6,10 +6,10 @@ Cosa
 
 ## Recursos
 ### Ver también
-[[00 - Diseño de experiencia (UX Design)]]
+[[Diseño de experiencia (UX Design)]]
 [[Diseño visual]]
 [[Interfaz]]
-[[GUI]]
+[[GUI (graphical user interface o interfaz gráfica de usuario)]]
 [[HCI]]
 
 ### Enlaces

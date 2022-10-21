@@ -2,8 +2,7 @@
 Etiquetas: #creatividad #ideación
 
 ## Qué es
-Ideación es la fase del proceso de diseño en la que uno se concentra en la **generación de ideas**. Mentalmente representa un proceso de “going wide” en términos de conceptos y resultados. 
-Esta fase proporciona tanto el combustible como la materia prima para **construir prototipos** y conseguir soluciones innovativas que podamos poner en manos de nuestros usuarios. [[^d.school, An Introduction to Design Thinking PROCESS GUIDE]]
+Ideación es la fase del proceso de diseño en la que uno se concentra en la **generación de ideas**. Mentalmente representa un proceso de “going wide” en términos de conceptos y resultados. Esta fase proporciona tanto el combustible como la materia prima para **construir prototipos** y conseguir soluciones innovativas que podamos poner en manos de nuestros usuarios. [[^d.school, An Introduction to Design Thinking PROCESS GUIDE]]
 
 (...)
 

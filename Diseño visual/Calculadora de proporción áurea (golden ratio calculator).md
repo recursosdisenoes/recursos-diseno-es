@@ -1,0 +1,1 @@
+https://www.omnicalculator.com/math/golden-ratio

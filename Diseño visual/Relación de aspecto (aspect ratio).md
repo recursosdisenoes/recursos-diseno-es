@@ -1,0 +1,1 @@
+[[Calculadora de relación de aspecto (aspect ratio calculator)]]

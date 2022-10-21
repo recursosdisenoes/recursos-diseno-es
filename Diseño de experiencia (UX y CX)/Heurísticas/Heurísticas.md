@@ -9,7 +9,7 @@ Etiquetas
 [[Heurística]]
 
 ## Principales heurísticas
-[[Diseño de experiencia (UX)/Heurísticas/Las 10 heurísticas de Nielsen]]
+[[Las 10 heurísticas de Nielsen]]
 [[Reglas de oro de Shneiderman]]
 Constantine
 Instone

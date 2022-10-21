@@ -1,0 +1,1 @@
+https://www.omnicalculator.com/other/aspect-ratio

@@ -110,7 +110,7 @@ Human attention is limited and we are only capable of maintaining around five it
 ## Recursos
 
 ### Relacionado
-[[Diseño de experiencia (UX)/Heurísticas/Las 10 heurísticas de Nielsen]]
+[[Las 10 heurísticas de Nielsen]]
 [[Heurística]]
 [[Heurísticas]]
 [[Evaluación heurística]]
