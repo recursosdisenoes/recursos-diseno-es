@@ -1,0 +1,18 @@
+Recopilación de principios de psicología, economía y otras disciplinas (...)
+
+[[Efecto estético-usabilidad]]
+[[Doherty Threshold]]
+[[Ley de Fitt]]
+[[Efecto meta-gradiente]]
+[[Ley de Hick]]
+[[Ley de Jakob]]
+[[Ley de región común]], parte de [[Gestalt]]
+[[Ley de proximidad]], parte de [[Gestalt]]
+[[Ley de prägnanz]], parte de [[Gestalt]]
+[[Ley de la similaridad]], parte de [[Gestalt]]
+[[Ley de la conectividad uniforme]]
+[[Ley de Miller]]
+[[Navaja de Occam]]
+[[Principio de Pareto]]
+[[Ley de Parkinson]]
+[[Peak-End Rule]]
