@@ -1,7 +1,7 @@
-# Evaluación heurística
+Etiquetas: #investigación #evaluativa 
 
 ## Qué es
-Un método (...) da como resultado un valor porcentual del nivel de usabilidad del sitio evaluado (un dato cuantitativo).
+Un método de [[Investigación evaluativa]] que da como resultado un valor porcentual del nivel de usabilidad del sitio evaluado (un dato [[cuantitativo]])
 
 ## Para qué sirve
 -   cuantificar y comparar la mejora

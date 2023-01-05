@@ -1,5 +1,4 @@
-# Inspección de usabilidad
-Etiquetas: #usabilidad 
+Etiquetas: #usabilidad #evaluativa 
 
 ![https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/user-research-methods.png](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/user-research-methods.png)
 
@@ -8,7 +7,9 @@ Etiquetas: #usabilidad
 
 Many inspection methods lend themselves to the inspection of user interface specifications that have not necessarily been implemented yet, meaning that inspection can be performed early in the usability engineering lifecycle.
 
+
 ## Cómo conducir un test de usabilidad
+
 ### Por qué hacer tests
 The goals of usability testing vary by study, but they usually include:
 -   **Identifying problems** in the design of the product or service
@@ -45,7 +46,9 @@ Participants are often asked to [**think out loud**](https://www.nngroup.com/ar
 
 >Si hay alguna duda, organizar [[Entrevistas de usuario]] para aclararla.
 
+
 ## Cómo planificar un test de usabilidad
+
 ### Objetivos
 Reúnete con los stakeholders para determinar qué es lo buscan descubrir. Identifica las preguntas,
 
@@ -152,7 +155,9 @@ Tareas
 Métricas, cuestionarios
 Descripción del sistema (móvil, de escritorio, opciones del ordenador)
 
+
 ## Tipos de tests de usabilidad
+
 ### Qualitative vs. Quantitative
 Usability testing can be either [qualitative or quantitative](https://www.nngroup.com/articles/quant-vs-qual/).
 
@@ -168,6 +173,7 @@ Remote usability tests are popular because they often require less time and mone
 > [**Remote moderated**](https://www.nngroup.com/articles/moderated-remote-usability-test/) usability tests work very similarly to in-person studies. The facilitator still interacts with the participant and asks her to perform tasks. However, the facilitator and participant are in different physical locations. Usually, moderated tests can be performed using screen-sharing software like Skype or GoToMeeting.
 > 
 > [**Remote unmoderated**](https://www.nngroup.com/articles/unmoderated-usability-testing/) remote usability tests do not have the same facilitator–participant interaction as an in-person or moderated tests. The researcher uses a dedicated [online remote-testing tool](https://www.nngroup.com/articles/unmoderated-user-testing-tools/) to set up written tasks for the participant. Then, the participant completes those tasks alone on her own time. The testing tool delivers the task instructions and any followup questions. After the participant completes her test, the researcher receives a recording of the session, along with metrics like task success.
+
 
 ## Técnicas para testar la usabilidad
 -   [[Evaluación heurística]] is the most informal method and involves having usability specialists judge whether each dialogue element follows [established usability principles](http://www.nngroup.com/articles/ten-usability-heuristics/) (the "heuristics").

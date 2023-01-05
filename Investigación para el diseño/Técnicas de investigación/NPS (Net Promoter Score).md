@@ -1,8 +1,8 @@
 # NPS
-Etiquetas: #datos #medir
+Etiquetas: #datos #medir #evaluativa 
 
 ## Qué es
-Esto
+[[Investigación evaluativa]]
 
 ## Cómo se hace
 Se mide y listo.

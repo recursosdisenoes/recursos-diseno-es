@@ -1,4 +1,3 @@
-# Test A/B
 Etiquetas: #CRO #datos 
 
 ## Qué es

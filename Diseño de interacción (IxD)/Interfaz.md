@@ -1,4 +1,4 @@
 [[GUI (graphical user interface o interfaz gráfica de usuario)]]
-[[VUI]]
+[[VUI (Voice User Interface o Interfaz de Usuario de Voz)]]
 
 Interfaz háptica

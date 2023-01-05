@@ -1,7 +1,8 @@
-# Satisfacción del cliente o *customer satisfaction*
-Etiquetas: #medir 
+Etiquetas: #medir #investigacion #evaluativa 
 
 ## Qué es
+[[Investigación evaluativa]]
+
 Customer satisfaction is a measurement we use to quantify the degree to which a customer is satisfied with a product, service, or experience. It measures how a customer feels about a brand interaction.
 
 ## Cómo se mide

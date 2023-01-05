@@ -1,26 +1,25 @@
-# Investigación evaluativa
 Etiquetas: #investigación 
 
 ## Qué es
-Es...
+La investigación evaluativa es un tipo de investigación que se utiliza para **evaluar un producto o concepto y recopilar datos que ayuden a mejorar la solución**. La investigación evaluativa tiene muchas ventajas, como determinar si un producto funciona como se pretende ([[#Formativa]]) y **descubrir áreas de mejora** en la solución ([[#Sumativa]])
 
 ## Tipos
-### Formativa
+### Investigación formativa
 Qué aspectos funcionan o no y por qué. Se hace con frecuencia **durante** el proceso.
 >[[Evaluación heurística]], [[Cognitive walkthroughs]] e [[Inspección de usabilidad]]
->
->5 usuarios son suficientes.
 
-### Sumativa
+>5 usuarios son suficientes [fuente]
+
+### Investigación sumativa
 Qué tal funciona un diseño. Se hace **al final** del proceso de diseño para evaluar usabilidad y detectar problemas que han pasado por alto.
->Grade experience: [[Satisfacción del cliente o *customer satisfaction*]], [[NPS (Net Promoter Score)]], [[Inspección de usabilidad]]...
+>Grade experience: [[Satisfacción del cliente (customer satisfaction)]], [[NPS (Net Promoter Score)]], [[Inspección de usabilidad]]...
 >
 >Se necesitan grandes muestras de usuarios (10k)
 
-Ejemplos: probar prototipos, compeltar [[Key Tasks]], unboxings...
+Ejemplos: probar prototipos, completar [[Key Tasks]], unboxings...
 
 ## Cómo se hace
->Tip: use [[Investigación generativa]] to bring forth new ideas during the discovery phase. And use evaluation research to test and monitor the product before and after launch.
+>Tip: use [[Investigación generativa]] to bring forth new ideas during the [[discovery]] phase. And use [[Investigación evaluativa]] to test and monitor the product before and after launch.
 
 (...) This type of study is a summative evaluation since it assesses the shipped product with the goal of tracking performance over time and ultimately [calculating our return on investment](https://www.nngroup.com/articles/return-on-investment-for-usability/). However, during this study, we might uncover some problemas de [[Usabilidad]]. We should make note of those issues and address them during our next design iteration.
 
@@ -31,7 +30,7 @@ All summative evaluations paint an **overview picture** of the usability of a sy
 [[Cognitive walkthroughs]]
 [[Inspección de usabilidad]]
 [[NPS (Net Promoter Score)]]
-[[Satisfacción del cliente o *customer satisfaction*]]
+[[Satisfacción del cliente (customer satisfaction)]]
 
 ### Ejemplos
 

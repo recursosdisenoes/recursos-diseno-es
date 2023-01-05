@@ -1,5 +1,4 @@
-# Sirius
-Etiquetas: #UX #heuristicas 
+Etiquetas: #UX #heuristicas #evaluativa #investigación 
 
 ## Qué es
 Sistema de evaluación...

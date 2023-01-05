@@ -1,7 +1,8 @@
-# Cognitive walthrough
-Etiquetas: #investigación #usabilidad 
+Etiquetas: #investigación #usabilidad #evaluativa 
 
 ## Qué es
+[[Investigación evaluativa]]
+
 Cognitive walkthroughs are used to examine the [usability](https://www.interaction-design.org/literature/topics/usability "What is Usability?") of a product. They are designed to see whether or not a new user can easily carry out tasks within a given system. It is a task-specific approach to usability (in contrast to [[Evaluación heurística]] which is a more holistic usability inspection). 
 
 The idea is that if given a choice – most users prefer to do things to learn a product rather than to read a manual or follow a set of instructions.
