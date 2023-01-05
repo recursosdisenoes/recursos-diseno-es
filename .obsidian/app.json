@@ -6,5 +6,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Empieza aquí/Organización del repositorio/Media"
 }
