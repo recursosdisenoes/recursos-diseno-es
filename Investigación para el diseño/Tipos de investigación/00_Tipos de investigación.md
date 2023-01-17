@@ -1,7 +1,7 @@
 ## Generativa y evaluativa
-La [[Investigación generativa]] te ayuda a comprender las motivaciones, los puntos de dolor y los comportamientos de tus usuarios. El objetivo es definir el problema que te gustaría resolver y diseñar la mejor solución posible para él.
+La [[Investigación generativa]] te ayuda a comprender las **motivaciones, los puntos de dolor y los comportamientos** de tus usuarios. El objetivo es definir el problema que te gustaría resolver y diseñar la mejor solución posible para él.
 
-Por otro lado, la [[Investigación evaluativa]] se utiliza para evaluar la solución de un producto existente y asegurarse de que es fácil de usar, funciona según lo previsto y satisface las necesidades y expectativas de los usuarios.
+Por otro lado, la [[Investigación evaluativa]] se utiliza para **evaluar** la solución de un producto existente y asegurarse de que es **fácil de usar**, **funciona** según lo previsto y **satisface** las necesidades y expectativas de los usuarios.
 
 ## Cuantitativa y cualitativa
 La [[Investigación cualitativa]] incluye métodos de investigación como las entrevistas a usuarios y los estudios de campo, y ayuda a recopilar datos cualitativos mediante la observación directa y el estudio de los participantes. 

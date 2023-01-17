@@ -1,14 +1,9 @@
----
-trello_board_card_id: 61d33e81988c938667200af1;61d865f517027c60aafb93b1
-trello_plugin_note_id: n-d3RGnPSYMZOr5EdA-6s
----
-# Personas
 Etiquetas: #UX #mapeado #UX/mapeado #investigación
 
 ![Personas Make Users Memorable for Product Team Members](https://s3.amazonaws.com/media.nngroup.com/media/editor/2015/01/19/examplepersona.png)
 
 ## Qué es
-Representación creíble y fiable de los segmentos clave de tu audiencia, basadas en [[Investigación cualitativa]], [[Investigación cuantitativa]] y analítica web.
+Representación creíble y fiable de los segmentos clave de tu audiencia, basadas en [[Investigación cualitativa]], [[Investigación cuantitativa]] y [[Analítica]].
 
 ## Para qué sirve
 -   Represent a major user group for your website
@@ -58,6 +53,10 @@ Representación creíble y fiable de los segmentos clave de tu audiencia, basada
 ### Relacionado
 [[Triangulación de datos]]
 
+### Ver también 
+[[Placeona]]
+[[Jobs To Be Done (JTBD)]]
+
 ### Enlaces
 - https://www.usability.gov/how-to-and-tools/methods/personas.html
 - https://www.ibm.com/garage/method/practices/think/practice_personas/
@@ -65,5 +64,6 @@ Representación creíble y fiable de los segmentos clave de tu audiencia, basada
 - https://www.nngroup.com/articles/why-personas-fail/
 - https://www.nngroup.com/articles/persona/
 - http://www.uxables.com/investigacion-ux/personas-en-ux-conoce-y-empatiza-con-los-usuarios/
+- https://www.nngroup.com/articles/personas-jobs-be-done/
 
 - [Lo de Mailchimp](https://www.google.com/search?q=mailchimp+personas+posters\&client=firefox-b-d\&source=lnms\&tbm=isch\&sa=X\&ved=2ahUKEwix-ee9p\_r0AhWnNOwKHdgCB0sQ\_AUoAXoECAIQAw\&biw=1280\&bih=690\&dpr=2#imgrc=MCDirj8s24Q3JM)

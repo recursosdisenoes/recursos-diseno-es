@@ -1,4 +1,3 @@
-# Triangulación de datos
 Etiquetas: #datos
 
 ## Qué es
@@ -9,7 +8,7 @@ The term *triangulation* is borrowed from geometry, where knowing the precise lo
 ## Recursos
 ### Ver también
 [[Dato]]
-[[00 - Investigacion para el diseño]]
+[[Investigacion para el diseño]]
 
 ### Enlaces
 - https://www.nngroup.com/articles/triangulation-better-research-results-using-multiple-ux-methods/

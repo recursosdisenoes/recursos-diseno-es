@@ -1,8 +1,7 @@
-# Investigación para el diseño
 Etiquetas: #investigación 
 
 ## Qué es
-Investigar
+Investigar (...)
 
 ## Para qué sirve
 Para saber cosas
@@ -14,6 +13,10 @@ Para saber cosas
 [[Investigación cualitativa]]
 
 ## Recursos
+### Ver también
+[[Técnicas de investigación]]
+[[00_Tipos de investigación]]
+
 ### Relacionado
 [[Triangulación de datos]]
 

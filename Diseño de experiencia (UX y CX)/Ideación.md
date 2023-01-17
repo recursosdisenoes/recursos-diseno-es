@@ -25,7 +25,7 @@ Dave Gray. Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemake
 ## Recursos
 
 ### Ver también
-[[Metodologías de trabajo/Design Thinking]]
+[[Pensamiento de diseño (Design Thinking)]]
 [[Pensamiento lateral]]
 
 ### Enlaces

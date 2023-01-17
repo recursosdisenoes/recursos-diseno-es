@@ -1,14 +1,9 @@
----
-trello_board_card_id: 61d33e81988c938667200af1;61d6dd7611387427cbeacc20
-trello_plugin_note_id: 5BEv4jXoGFTnoqKq7DTe1
----
-# Mapa de empatía (Empathy Map)
-Etiquetas: #mapeado #ux #estrategia #UX/mapeado
+Etiquetas: #mapeado #ux #estrategia #UX/mapeado #investigación #DesignThinking
 
 ![Update to the Empathy Map - Gamestorming](https://gamestorming.com/wp-content/uploads/2017/07/Empathy-Map-006-PNG.png)
 
 ## Qué es
-Es una herramienta de investigación/facilitación. Es el primer paso del [[Metodologías de trabajo/Design Thinking]].
+Es una herramienta de investigación/facilitación. Es el primer paso del [[Pensamiento de diseño (Design Thinking)]].
 
 ### Para qué sirve
 Para ==empatizar== con los/as usuarios/as. Para entender mejor al cliente o público objetivo: personalidad, entorno, visión del mundo, necesidades y deseos...
@@ -107,7 +102,7 @@ Be sure to keep empathy maps ‘alive’ by revising and adjusting them as you d
 
 ## Recursos
 ### Relacionado
-[[Personas]]
+[[Persona]]
 [[Focus group]]
 [[Business Model Generation]]
 

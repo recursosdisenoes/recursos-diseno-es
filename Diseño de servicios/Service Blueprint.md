@@ -1,9 +1,4 @@
----
-trello_board_card_id: 61d33e81988c938667200af1;61d579c0aaf7b47fd114817f
-trello_plugin_note_id: oneOXe6CdpaewMescjNhB
----
-# Service Blueprint
-Etiquetas: #servicio 
+Etiquetas: #servicio #mapeado #UX/mapeado 
 
 ![NNg Service Blueprint Example](https://media.nngroup.com/media/editor/2017/08/22/nng-service-blueprint-example.png)
 

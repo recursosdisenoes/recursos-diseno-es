@@ -1,5 +1,11 @@
-# Ritmo
-Parte de [[Principios de diseño]]
+Etiquetas: 
+
+>Parte de [[Principios de diseño]]
+
+## Qué es
+asd
+
+--- 
 
 ### Recursos
 https://www.smashingmagazine.com/2015/04/design-principles-compositional-flow-and-rhythm/#top

@@ -32,7 +32,7 @@ This decision pertains to the quality of the final map visualization.
 ## Herramientas de mapeado
 [[Business Model Canvas]]
 [[Value Proposition Canvas]]
-[[Personas]]
+[[Persona]]
 
 ## Recursos
 https://www.nngroup.com/articles/ux-mapping-cheat-sheet/

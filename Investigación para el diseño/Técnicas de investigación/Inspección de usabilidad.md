@@ -1,7 +1,5 @@
 Etiquetas: #usabilidad #evaluativa 
 
-![https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/user-research-methods.png](https://s3.amazonaws.com/media.nngroup.com/media/editor/2014/10/10/user-research-methods.png)
-
 ## Qué es
 **Usability inspection** is the generic name for a set of methods that are all based on having evaluators inspect a user interface. Typically, usability inspection is aimed at finding usability problems in the design, though some methods also address issues like the severity of the usability problems and the overall usability of an entire system. 
 
@@ -24,7 +22,9 @@ The **facilitator** guides the participant through the test process. She gives i
 
 The facilitator works to ensure that the test results in high-quality, valid data, without [accidentally influencing the participant’s behavior](https://www.nngroup.com/articles/leading-questions/). Achieving this balance is difficult and requires training.
 
-(In one form of remote usability testing, called [remote unmoderated testing](https://www.nngroup.com/articles/unmoderated-usability-testing/), an application may perform some of the facilitator’s roles.)
+(In one form of [[Test de usabilidad remoto]], called [remote unmoderated testing](https://www.nngroup.com/articles/unmoderated-usability-testing/), an application may perform some of the facilitator’s roles.)
+
+[[Test de usabilidad remoto#No moderado]]
 
 #### Tasks
 The **tasks** in a usability test are realistic activities that the participant might perform in real life. They can be very specific or very open-ended, [depending on the research questions](https://www.nngroup.com/articles/ux-research-goals-to-scenarios/) and the type of usability testing.
@@ -195,7 +195,7 @@ https://measuringu.com/errors-ux/
 [[Usabilidad]]
 [[Evaluación heurística]]
 [[Cognitive walkthroughs]]
-[[Personas]]
+[[Persona]]
 
 ### Enlaces
 - https://www.nngroup.com/articles/recruiting-test-participants-for-usability-studies/

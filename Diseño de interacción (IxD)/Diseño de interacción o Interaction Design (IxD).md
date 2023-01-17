@@ -1,8 +1,11 @@
-# Diseño de interacción
 Etiquetas: #interacción
 
 ## Qué es
-Cosa
+Diseño de interacción, a menudo abreviado como IxD, está definido como "la práctica de diseñar productos digitales interactivos, entornos, sistemas, y servicios."​
+
+> Qué es una [[Interfaz]]
+
+---
 
 ## Recursos
 ### Ver también

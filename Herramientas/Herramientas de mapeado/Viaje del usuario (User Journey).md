@@ -23,7 +23,7 @@ El artefacto/entregable puede ser buena herramienta para comunicar los descubrim
 Puedes empezar con una ==hoja de cálculo== (...)
 
 ### Elementos clave
-- **Actor** (punto de vista): es quien experimenta el viaje. Es una [[Personas]].
+- **Actor** (punto de vista): es quien experimenta el viaje. Es una [[Persona]].
 > Ejemplo: en la misma organización hay Personas con distintos Viajes, por ejemplo: en una academia son muy distintas las experiencias de un profesor de las de un alumno.
 - **Escenario y expectativas**: describe la situación que se va a analizar en el viaje, donde el Actor tiene una o varias metas y expectativas específicas.
 > Ejemplo: Marta *quiere* cambiar de tarifa de teléfono *para* gastar menos dinero (escenario). Marta *espera* encontrar todas las opciones de su tarifa y de las otras disponibles para poder comparar con facilidad (expectativa).
@@ -60,7 +60,7 @@ Back when technology wasn’t sexy, as I had mentioned earlier, the cashier was 
 
 ### Relacionado
 [[Mapa de empatía (Empathy Map)]]
-[[Personas]]
+[[Persona]]
 [[Business Model Canvas]]
 
 ### Enlaces

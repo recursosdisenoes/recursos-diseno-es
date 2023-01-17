@@ -49,7 +49,7 @@ This will help you investigate when feedback in the system is missing, badly wor
 ### Ver también
 [[Investigación evaluativa]]
 [[Evaluación heurística]]
-[[Test de usabilidad]]
+[[Test de usabilidad remoto]]
 [[Inspección de usabilidad]]
 [[NPS (Net Promoter Score)]]
 
