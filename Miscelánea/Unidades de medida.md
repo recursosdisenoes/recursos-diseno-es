@@ -1,4 +1,3 @@
-# Unidades de medida
 Etiquetas: #UI #medir 
 
 ># Up until 2010, a pixel meant a pixel, it was measurable and life was easy.
@@ -30,7 +29,7 @@ Para calcular dp:
 
 **dp = (ancho en píxeles * 160) / densidad de la pantalla.**
 
-[[Unidades de medida (px, dp...)#^Pixel]], [[Densidad de píxeles]]
+[[Unidades de medida#^Pixel]], [[Densidad de píxeles]]
 
 ## sp (píxeles de escala independiente)
 Scale-independent-Pixels en inglés, tienen la misma función que los función que los **dp** , la diferencia es que se aplican a textos, en el caso de Android para **TextView** o cualquier otro elemento que soporte una fuente.

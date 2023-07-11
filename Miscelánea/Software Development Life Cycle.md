@@ -1,4 +1,3 @@
-# Software Development Life Cycle
 Etiquetas: #software
 
 ## Qué es

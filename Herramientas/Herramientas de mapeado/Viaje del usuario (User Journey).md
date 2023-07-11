@@ -1,8 +1,3 @@
----
-trello_board_card_id: 61d33e81988c938667200af1;61d433d8c404482f7f9c3fc7
-trello_plugin_note_id: ANvEUG0rqRMGkfDg1X_5_
----
-# Viaje del usuario (User Journey)
 Etiquetas: #mapeado #ux #estrategia
 
 ![Basic Journey Map](https://media.nngroup.com/media/editor/2018/11/06/screen-shot-2018-11-06-at-122254-pm.png)

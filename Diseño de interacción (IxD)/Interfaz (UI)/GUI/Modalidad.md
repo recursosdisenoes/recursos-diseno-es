@@ -1,12 +1,14 @@
 Etiquetas: #Interacción 
 
 ## Qué es
-Modality is a design technique that presents content in a separate, focused mode that prevents interaction with the parent view and requires an explicit action to dismiss.
+**Modality** is a design technique that presents content in a separate, focused mode that prevents interaction with the parent view and requires an explicit action to dismiss.
 
 ## Componentes relacionados
 - [[Pop-up]]
 - [[Popover]]
 - [[Popper]]
+
+Ver también [[Modal]]
 
 ---
 

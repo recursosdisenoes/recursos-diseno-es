@@ -1,4 +1,3 @@
-# Strategyzer
 Etiquetas: #canvas 
 
 https://www.strategyzer.com/

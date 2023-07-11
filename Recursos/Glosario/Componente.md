@@ -4,4 +4,3 @@ Etiquetas: #interfaz
 Una cosa
 
 ## Lista de componentes
-Lista

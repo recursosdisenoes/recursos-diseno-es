@@ -1,5 +1,8 @@
-## Components
-aaa
+## Qué es
+Magia
 
-## Iconografía
+## Components
+[[Modal]]
+
+## [[Iconografía]]
 [[A complete guide to iconography]]

@@ -1,4 +1,3 @@
-# Ideación
 Etiquetas: #creatividad #ideación
 
 ## Qué es
@@ -13,6 +12,8 @@ Ideación es la fase del proceso de diseño en la que uno se concentra en la **g
 [[Six thinking hats]]
 [[Provocación]]
 [[Analogías]]
+
+---
 
 ## Referencias
 Edward De Bono. Serious Creativity: Using the Power of Lateral Thinking to Create New Ideas, 1993

@@ -11,6 +11,7 @@ A well-defined user story does not spell out the exact feature, but rather what 
 ### Ver también
 - [[User Story Map]]
 - [[Jobs To Be Done (JTBD)]]
+- [[Diseño centrado en los humanos]]
 
 ### Enlaces
 - https://www.interaction-design.org/literature/article/user-stories-as-a-ux-designer-i-want-to-embrace-agile-so-that-i-can-make-my-projects-user-centered

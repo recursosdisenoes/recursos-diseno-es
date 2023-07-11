@@ -3,6 +3,12 @@ Etiquetas: #investigación #framework
 ## Qué es
 Una cosa
 
+[[Empatizar]] 
+[[Definir]]
+[[Ideación]]
+[[Prototipado]]
+[[Testing]]
+
 ---
 
 ## Recursos
@@ -11,3 +17,6 @@ https://static1.squarespace.com/static/57c6b79629687fde090a0fdd/t/5b19b2f2aa4a99
 https://www.designkit.org/methods/45
 
 https://www.youtube.com/watch?v=L1pBhHjGKvI&ab_channel=HighResolution
+
+## Enlaces
+https://medium.com/uber-design/how-we-design-on-the-ubereats-team-ff7c41fffb76

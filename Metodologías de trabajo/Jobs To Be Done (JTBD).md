@@ -1,7 +1,7 @@
 Etiquetas: #investigación 
 
 ## Qué es
-[Personas](https://www.nngroup.com/courses/personas/) have long been a useful tool in a [[Diseño centrado en los humanos o diseño centrado en los usuarios]] process; however, in recent years, **jobs-to-be done**, a new technique for focusing on customer needs, has been gaining steady prominence.
+[Personas](https://www.nngroup.com/courses/personas/) have long been a useful tool in a [[Diseño centrado en los humanos]] process; however, in recent years, **jobs-to-be done**, a new technique for focusing on customer needs, has been gaining steady prominence.
 
 Definition: **Jobs-to-be-done (JTBD)** is a framework based on the idea that whenever users “hire” (i.e., use) a product, they do it for a specific “job” (i.e., to achieve a particular outcome). The set of “jobs” for the product amounts to a comprehensive list of user needs.
 
